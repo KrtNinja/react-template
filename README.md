@@ -9,5 +9,8 @@ This is personal React template instead of CRA (create-react-app).
 
 ### Consist of
 1. React
-2. Babel
-3. Webpack
+2. Typescript
+3. Babel
+4. Webpack
+5. Prettier
+6. Eslint
